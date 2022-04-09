@@ -1,4 +1,4 @@
-## Hey there 👩‍💻
+## Hey there
 I am a junior web developer, ex-marketer, aiming to create stuff with great design/ux 💜
 
 ## I'm building with...
