@@ -1,5 +1,6 @@
 ## Hey there
 I am a junior web developer, ex-marketer, aiming to create stuff with great design/ux 💜
+<br/>ironhack alumni 2022 💙
 
 ## I'm building with...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
