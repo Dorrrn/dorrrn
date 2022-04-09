@@ -1,7 +1,7 @@
 ## Hey there 👩‍💻
 I am a junior web developer, ex-marketer, aiming to create stuff with great design/ux 💜
 
-## 👾 I'm building with...
+## I'm building with...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
@@ -14,7 +14,7 @@ I am a junior web developer, ex-marketer, aiming to create stuff with great desi
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=Netlify&logoColor=ColorName&color=black)
 
-## 🌱 I'm currently learning...
+## I'm currently learning...
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React.native-informational?style=flat&logo=react&logoColor=ColorName&color=black)
