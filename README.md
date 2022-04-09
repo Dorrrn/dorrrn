@@ -1,4 +1,4 @@
-## Hey there
+## Hi, I'm Doan Tran
 I am a junior web developer, ex-marketer, aiming to create stuff with great design/ux 💜
 <br/>ironhack alumni 2022 💙
 
