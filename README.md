@@ -21,7 +21,9 @@ I am a junior web developer, ex-marketer, aiming to create stuff with great desi
 ![](https://img.shields.io/badge/React.native-informational?style=flat&logo=react&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=ColorName&color=black)
 
-#### My latest projects
-[tandem App](https://app-tandem.netlify.app/)
+## My ironhack bootcamp projects
+[tandem app](https://app-tandem.netlify.app/) (MERN SPA)
 <br/>
-[dozema coffee](https://dozema-coffee.herokuapp.com/)
+[dozema coffee](https://dozema-coffee.herokuapp.com/) (Fullstack App)
+<br/> 
+[hit the road](https://dorrrn.github.io/hit-the-road/) (Browser Game)
