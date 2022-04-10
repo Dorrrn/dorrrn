@@ -1,5 +1,5 @@
 ## Hi, I'm Doan Tran
-I am a junior web developer, ex-marketer, aiming to create stuff with great design/ux 💜
+I am a junior web developer, ex-marketer, loving great design/ux 💜
 <br/>ironhack alumni 2022 💙
 
 ## I'm building with...
