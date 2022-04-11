@@ -21,7 +21,7 @@ I am a junior web developer, ex-marketer, loving great design/ux 💜
 ![](https://img.shields.io/badge/React.native-informational?style=flat&logo=react&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=ColorName&color=black)
 
-## My ironhack bootcamp projects
+## My bootcamp projects
 [tandem app](https://app-tandem.netlify.app/) (MERN SPA)
 <br/>
 [dozema coffee](https://dozema-coffee.herokuapp.com/) (Fullstack App)
