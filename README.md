@@ -24,11 +24,11 @@ I am Doan, junior web developer, ex-marketer, loving great design/ux 💜
 
 
 ## My bootcamp projects
-[tandem app](https://app-tandem.netlify.app/) (MERN SPA)
+[tandem app](https://app-tandem.netlify.app/) (MERN SPA; [repo-server](https://github.com/Dorrrn/mern-app-server); [repo-client](https://github.com/Dorrrn/mern-app-client) )
 <br/>
-[dozema coffee](https://dozema-coffee.herokuapp.com/) (Fullstack App)
+[dozema coffee](https://dozema-coffee.herokuapp.com/) (Fullstack App; [repo](https://github.com/dozema/dozema-coffee))
 <br/> 
-[hit the road](https://dorrrn.github.io/hit-the-road/) (Browser Game)
+[hit the road](https://dorrrn.github.io/hit-the-road/) (Browser Game; [repo](https://github.com/Dorrrn/hit-the-road))
 
 ## Connect with me ...
 <a href="https://www.linkedin.com/doant/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="Doan Tran | LinkedIn"/></a> <a href="mailto:doan7tran@gmail.com"><img src="https://img.shields.io/badge/-e--mail-lightgray" alt="Doan Tran | email"/></a>
