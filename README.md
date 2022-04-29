@@ -20,7 +20,6 @@ I am Doan, junior web developer, ex-marketer, loving great design/ux 💜
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React.native-informational?style=flat&logo=react&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=ColorName&color=black)
 
 
 ## My bootcamp projects
