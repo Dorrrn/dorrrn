@@ -29,6 +29,6 @@ I am Doan, junior web developer, ex-marketer, loving great design/ux 💜
 [hit the road](https://dorrrn.github.io/hit-the-road/) (Browser Game; [repo](https://github.com/Dorrrn/hit-the-road))
 
 ## Connect with me ...
-<a href="https://www.linkedin.com/doant/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="Doan Tran | LinkedIn"/></a> <a href="mailto:doan7tran@gmail.com"><img src="https://img.shields.io/badge/-e--mail-lightgray" alt="Doan Tran | email"/></a>
+<a href="https://www.linkedin.com/in/doant/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="Doan Tran | LinkedIn"/></a> <a href="mailto:doan7tran@gmail.com"><img src="https://img.shields.io/badge/-e--mail-lightgray" alt="Doan Tran | email"/></a>
 
 
