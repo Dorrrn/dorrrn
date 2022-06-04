@@ -18,6 +18,7 @@ I am Doan, junior web developer, ex-marketer, loving great design/ux 💜
 
 ## I'm currently learning ...
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React.native-informational?style=flat&logo=react&logoColor=ColorName&color=black)
 
 
